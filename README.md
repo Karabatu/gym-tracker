@@ -4,6 +4,8 @@ Schlanker Gym-Tracker als PWA für das iPhone: keine Werbung, kein Konto, keine 
 Die Startseite enthält alles für die laufende Session. Plan, Verlauf, Fortschritt und Einstellungen liegen in eigenen Tabs.
 Alle Daten bleiben lokal auf dem Gerät (IndexedDB).
 
+**Live:** https://karabatu.github.io/gym-tracker/ (Repo: https://github.com/Karabatu/gym-tracker)
+
 ## Funktionen
 - **Training:** Der nächste Trainingstag wird automatisch vorgeschlagen (Rotation). Werte vom letzten Mal stehen als Platzhalter im Feld, ein Haken übernimmt sie. Bei vollem Wdh-Bereich erscheint ein Steigerungs-Hinweis.
 - Aufwärmsätze: Satznummer antippen, dann „W“. Sie zählen nicht für Volumen und Rekorde.
